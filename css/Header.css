@@ -1,0 +1,70 @@
+header>div {
+    /* border: 2px solid red; */
+    margin-bottom: 5px;
+
+}
+
+.left {
+    width: 100px;
+    display: inline-block;
+    position: absolute;
+    top: 20px;
+    left: 15px;
+    text-align: center;
+}
+
+.logo {
+    height: 50px;
+    margin-bottom: 5px;
+    filter: invert(100%);
+}
+
+.mid {
+    width: 50%;
+    display: block;
+    margin: 20px auto;
+
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 0px 73px 0px 73px;
+}
+
+.navbar li a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.navbar ul {
+    text-align: center;
+}
+
+.navbar a:hover, .formbutton input:hover {
+    color: grey;
+    cursor: pointer;
+}
+
+.right {
+    width: 100px;
+    display: inline-block;
+    position: absolute;
+    top: 20px;
+    right: 15px;
+    text-align: center;
+}
+
+.right img {
+    width: 25px;
+}
+
+button {
+    text-align: center;
+    padding: 0px 8px 0px 8px;
+    background: none;
+    cursor: pointer;
+    border: none;
+    /* border: 1px solid white;
+    border-radius: 10px; */
+}

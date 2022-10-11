@@ -1,0 +1,41 @@
+main{
+    /* border: 1px solid yellow; */
+    display: inline-block;
+    padding: 20px;
+    position: absolute;
+    right: 140px;
+    top: 120px;
+    height: 480px;
+    width: 400px;
+    text-align: center;
+
+}
+main div{
+    margin-bottom: 30px;
+}
+main h1{
+    margin-bottom: 40px;
+}
+.formgroup input{
+    text-align: center;
+    width: 300px;
+    border-radius: 10px;
+    font-size: 16px;
+    font-family: 'Baloo Bhai 2', cursive
+}
+.formbutton{
+    width: 300px;
+    text-align: center;
+    border: 1px solid white;
+    margin-left: 29px;
+    border-radius: 10px;
+}
+.formbutton input{
+    border: none;
+    background: none;
+    color: aliceblue;
+    font-size: 18px;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-family: 'Baloo Bhai 2', cursive
+}
